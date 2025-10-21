@@ -1,0 +1,5 @@
+{
+  "name": "Daily Activity Tracker",
+  "description": "An intelligent email and ticket tracker to log daily activities and generate management reports using Gemini AI. It helps streamline tracking and reporting processes efficiently.",
+  "requestFramePermissions": []
+}
